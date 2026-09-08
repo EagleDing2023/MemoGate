@@ -48,7 +48,7 @@ The card you would have skipped becomes the card you can't skip. The time that w
 - ✅ Spaced repetition scheduling
 - 🔄 Stripe billing wired up ($5/mo)
 - 🔄 UI redesign in progress
-- 🔄 iOS app — Swift rewrite, targeting App Store summer 2026
+- 🔄 iOS app
 - 🎯 Validation goal: 100 active users, 30 paying
 
 ---
