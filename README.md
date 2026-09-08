@@ -46,7 +46,7 @@ The card you would have skipped becomes the card you can't skip. The time that w
 - ✅ Web app live at [memogate.app](https://memogate.app/) — early version, UI being redesigned
 - ✅ AI deck generation (topic in, deck out)
 - ✅ Spaced repetition scheduling
-- ✅ Stripe billing wired up ($5/mo)
+- 🔄 Stripe billing wired up ($5/mo)
 - 🔄 UI redesign in progress
 - 🔄 iOS app — Swift rewrite, targeting App Store summer 2026
 - 🎯 Validation goal: 100 active users, 30 paying
